@@ -1,0 +1,5 @@
+{
+  "C++ file" : "C:\\Users\\pasqu\\Downloads\\pynq_examples\\axilite\\hls\\adder.cpp",
+  "Top function" : "void adder(int a, int b, int* c)",
+  "Addresses file" : "C:\\Users\\pasqu\\Downloads\\pynq_examples\\axilite\\hw\\adder_axilite\\adder_axilite.ipdefs\\adder_0\\solution1\\impl\\ip\\drivers\\adder_v1_0\\src\\xadder_hw.h"
+}
